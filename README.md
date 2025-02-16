@@ -16,4 +16,4 @@
 
 <p>Para ver el programa solo debes hacer click en la parte de abajo 😎.</p>
 
-<a href="https://candoit911.github.io/Chalenge-del-amigo-secreto/"> Haz click aqui</a>
+<a href="https://candoit911.github.io/Chalenge-del-amigo-secreto/" target="_blank> Haz click aqui</a>
